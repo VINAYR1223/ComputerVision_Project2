@@ -53,20 +53,8 @@ pip install opencv-python mediapipe numpy
 
 
 ## ▶️ Run the Project
-python main.py
-Press:"ESC" to exit the application.
-
-## 📁 Project Structure
-Naruto-VFX/
-│
-├── main.py
-├── Utility.py
-│
-├── Effects/
-│   ├── Effect1/        # Rasengan animation frames
-│   └── Effect2/        # Chidori animation frames
-│
-└── README.md
+- python main.py
+- Press:"ESC" to exit the application.
 
 ## This project is intended for educational purposes, portfolio demonstration, and computer vision experimentation.
 
