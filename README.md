@@ -52,11 +52,11 @@ pip install opencv-python mediapipe numpy
 ```
 
 
-##▶️ Run the Project
+## ▶️ Run the Project
 python main.py
 Press:"ESC" to exit the application.
 
-##📁 Project Structure
+## 📁 Project Structure
 Naruto-VFX/
 │
 ├── main.py
@@ -68,5 +68,5 @@ Naruto-VFX/
 │
 └── README.md
 
-##This project is intended for educational purposes, portfolio demonstration, and computer vision experimentation.
+## This project is intended for educational purposes, portfolio demonstration, and computer vision experimentation.
 
