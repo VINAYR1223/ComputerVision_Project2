@@ -24,8 +24,8 @@ def main():
 
 
     #Loading the animation frames
-    Rasengan = Utility.LoadFrames(r"C:\Users\ADMIN\Documents\Naruto_Organized\Effects\Effect1")
-    Chidori = Utility.LoadFrames(r"C:\Users\ADMIN\Documents\Naruto_Organized\Effects\Effect2")
+    Rasengan = Utility.LoadFrames(r"Path_of_the_effect1")
+    Chidori = Utility.LoadFrames(r"Path_of_the_effect2")
 
 
     mpdraw = mp.solutions.drawing_utils #we will use it to draw the landmark and the connection between them.
